@@ -1,0 +1,12 @@
+node-write-file-promise (1.0.0-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 04:17:03 +0100
+
+node-write-file-promise (1.0.0-1) unstable; urgency=low
+
+  * Initial release (Closes: #877777)
+
+ -- Pirate Praveen <praveen@debian.org>  Thu, 05 Oct 2017 18:38:31 +0530

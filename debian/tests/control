@@ -1,0 +1,5 @@
+Tests: require
+Depends: node-write-file-promise
+
+Test-Command: tap test
+Depends: @, node-tap
